@@ -25,3 +25,5 @@ Projekt został wykonany w celu informatyzacji procesu obsługi pacjentów w sie
 ## Autor
 
 Krzysztof Sawicki
+
+LINK do repozutorium: https://github.com/krzysztofsawicki-uth/MEDICA_35735.git
